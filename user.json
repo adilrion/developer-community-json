@@ -8,6 +8,22 @@
         "status": "1"
     },
     {
+        "name": "Farhad Hosen",
+        "email": "farhadhosen613@gmail.com",
+        "number": "01616533712",
+        "sector": "App Development",
+        "github": "INVALID GITHUB ID",
+        "status": "0"
+    },
+    {
+        "name": "Nahid Hasan",
+        "email": "hnhasan0027@gmail.com",
+        "number": "01518956211",
+        "sector": "App Development",
+        "github": "https://github.com/nahidsoft",
+        "status": "0"
+    },
+    {
         "name": "Angkan Mallik ",
         "email": "ankanmallik0@gmail.com",
         "number": "01402054881",
@@ -93,7 +109,7 @@
         "number": "01758792678",
         "sector": "Machine Learning",
         "github": "N\\A",
-        "status": "1"
+        "status": "0"
     },
     {
         "name": "Ashikur Rahman ",
@@ -165,14 +181,6 @@
         "number": "01833449963",
         "sector": "Programming Contest",
         "github": "https://github.com/adilrion",
-        "status": "1"
-    },
-    {
-        "name": "Md Rafiul Islam",
-        "email": "rafiul587@gmail.com",
-        "number": "01644562164",
-        "sector": "Programming Contest",
-        "github": "https://github.com/rafiul587",
         "status": "1"
     },
     {
@@ -750,6 +758,14 @@
         "sector": "Web Development",
         "github": "https://github.com/katha922",
         "status": "1"
+    },
+    {
+        "name": "Sunzida Akter",
+        "email": "sunzida.sanju7600@gmail.com",
+        "number": "01789003730",
+        "sector": "App Development",
+        "github": "https://github.com/Oarisha-Sanju",
+        "status": "0"
     },
     {
         "name": "Md Miskat Ahmmed",
