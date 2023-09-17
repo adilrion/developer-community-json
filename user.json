@@ -144,14 +144,6 @@
         "status": "1"
     },
     {
-        "name": "Md Mursalatul Islam Pallob ",
-        "email": "mursalatul.pallob@gmail.com",
-        "number": "01611920058",
-        "sector": "Programming Contest",
-        "github": "https://github.com/mursalatul",
-        "status": "0"
-    },
-    {
         "name": "Md. Ifram Dewan ",
         "email": "iframdewan@gmail.com",
         "number": "01832083602",
@@ -174,14 +166,6 @@
         "sector": "Programming Contest",
         "github": "https://github.com/piyalt",
         "status": "1"
-    },
-    {
-        "name": "Adil Mahmoud Rion",
-        "email": "adilmahmoudrion@gmail.com",
-        "number": "01833449963",
-        "sector": "Programming Contest",
-        "github": "https://github.com/adilrion",
-        "status": "0"
     },
     {
         "name": "Abu Saim Hossen Hridoy ",
@@ -277,7 +261,7 @@
         "number": "01770280341",
         "sector": "Programming Contest",
         "github": "https://github.com/YouKnowMe2",
-        "status": "0"
+        "status": "1"
     },
     {
         "name": "Maliha Nusrat Tahira",
@@ -587,7 +571,7 @@
         "name": "Md. Shihab Hassan Naim ",
         "email": "hassanshihab231@gmail.com",
         "number": "01632918596",
-        "sector": "Web Development",
+        "sector": "Programming Contest",
         "github": "https://github.com/shihabhassannaim",
         "status": "1"
     },
